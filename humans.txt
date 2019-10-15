@@ -1,9 +1,8 @@
 /* TEAM */
                            
-Name: Vijayendra Mudigal.                     
-Email: vijayendrap@gmail.com     
-Twitter: vmudigal.
-Location: Bengaluru, India.
+Name: Saurabh Singhal.                     
+Email: devopssaurabh16@gmail.com     
+
 
 /* SITE */
 
