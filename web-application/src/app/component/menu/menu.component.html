@@ -1,4 +1,4 @@
-<ul class="nav nav-tabs nav-justified">
+<!-- <ul class="nav nav-tabs nav-justified">
   <li id="service-one">
     <a data-toggle="tab" href="javascript:void(0)"
        routerLink="/service-one" (click)="one()">One</a>
@@ -11,4 +11,19 @@
     <a data-toggle="tab" href="javascript:void(0)"
        routerLink="/service-three" (click)="three()">Three</a>
   </li>
-</ul>
+</ul> -->
+
+<div class="sidenav">
+  <li>
+    <a data-toggle="tab" href="javascript:void(0)"
+    routerLink="/service-one" routerLinkActive="active" (click)="one()">One</a>
+  </li>
+  <li>
+    <a data-toggle="tab" href="javascript:void(0)" routerLinkActive="active"
+    routerLink="/service-two" (click)="two()">Two</a>
+  </li>
+  <li>
+    <a data-toggle="tab" href="javascript:void(0)" routerLinkActive="active"
+       routerLink="/service-three" (click)="three()">Three</a>
+  </li>
+</div>
